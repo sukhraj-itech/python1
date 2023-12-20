@@ -13,5 +13,5 @@ class handler(BaseHTTPRequestHandler):
 
         c = b + a
 
-        print(c)
+        self.print(c)
         return
