@@ -1,6 +1,5 @@
 from http.server import BaseHTTPRequestHandler
 
-from flask import Flask, request, jsonify
 a = 10
 b = 20
 c = a + b
