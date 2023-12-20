@@ -4,6 +4,8 @@ b = 10
 
 c = b + a
 
+print(c)
+
 class handler(BaseHTTPRequestHandler):
 
     def do_GET(self):
